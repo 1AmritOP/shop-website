@@ -251,7 +251,7 @@ export default function Home() {
               className="w-full h-full object-cover"
               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3598.9761957152405!2d83.98502587411383!3d25.57245871640133!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399275baff4ef6f7%3A0x47c45ccaf1e6cd40!2sJyoti%20Chowk%2C%20Babanagar%2C%20Buxar%2C%20Bihar%20802101!5e0!3m2!1sen!2sin!4v1779528199810!5m2!1sen!2sin"
               style={{ border: 0 }}
-              allowFullScreen=""
+              allowFullScreen
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
             ></iframe>
